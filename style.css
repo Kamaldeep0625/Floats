@@ -9,5 +9,6 @@
     float: left;}
     p{
     clear: none;
-    padding: 50;
+    padding: 20;
+    padding-left: 10;
 }
