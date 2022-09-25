@@ -13,3 +13,8 @@
     letter-spacing: 0.2px;
     word-spacing: 1;
 }
+    img{
+        float: left;
+        padding: 0 12px 0 0;
+
+    }
